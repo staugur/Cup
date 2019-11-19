@@ -16,3 +16,6 @@ var __refresh = 60;
 
 // your site name
 var __siteName = "SaintIC";
+
+// uptimerobot public status page url for nav
+var __uptimerobotPspu = "https://stats.uptimerobot.com/RLp8ofvZLW";

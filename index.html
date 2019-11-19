@@ -101,7 +101,11 @@
           </div>
           <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-               <!--<li><a href="https://www.saintic.com">主站</a></li>-->
+                <script>
+                    if (__uptimerobotPspu) {
+                        document.write('<li><a href="' + __uptimerobotPspu + '" title="请使用梯子查看">状态页数据源站</a></li>');
+                    }
+                </script>
             </ul>
             <ul class="nav navbar-nav navbar-right">
             </ul>
