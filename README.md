@@ -10,12 +10,12 @@
 
 1. 注册 [UptimeRobot](https://uptimerobot.com/)，获取 [Monitor-Specific / Read-Only API Key(s)](https://uptimerobot.com/dashboard.php#mySettings)
 2. 将 `API Keys` 填入 `js/config.js`
-3. 修改 `index.html` 内的页面标题等信息
+3. 修改 `index.html` 内的页面标题等信息(到config.js中修改)
 4. 完成！
 
 ## 演示
 
-[酷Q状态](https://status.cqp.cc)
+[SaintIC状态](https://status.saintic.com)
 
 ## License
 
