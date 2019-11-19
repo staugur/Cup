@@ -13,3 +13,6 @@ var __apiKeys = [
 
 // refresh interval (in seconds)
 var __refresh = 60;
+
+// your site name
+var __siteName = "SaintIC";
