@@ -10,7 +10,8 @@ var __apiKeys = [
     'm783836067-f6aa67526bc991b351465fd8',//isso
     'm783836062-f51a0aef5ec180679a60c08a',//rtfd-server
     'm788143922-fcc23259f25cb83bc5ba4abb',//rtfd-app
-    'm784104287-8f2cf09927757d4ce07815ec',//picbed
+    'm784104287-8f2cf09927757d4ce07815ec',//picbed-demo
+    'm786852594-60782dc0c42bd464a05c837d',//picbed
     'm788143930-06672a9cb78f977ab64e31d5',//fairyla
 ];
 
